@@ -91,40 +91,40 @@ I prefer Javascript & React  for web front-end development.
     <td>https://emreeken183425.github.io/javascript-kredi-hesaplama/</td> 
 </tr> 
    <tr>
-    <td align=center >1.</td>
+    <td align=center >2.</td>
     <td>CALCULATOR</td>
     <td>https://emreeken183425.github.io/CALCULATOR/</td>
    
 </tr>
   <tr>
-    <td align=center >1.</td>
+    <td align=center >3.</td>
     <td>TO-DO-L-ST</td>
     <td>https://emreeken183425.github.io/TO-DO-L-ST/</td>
    
 </tr>  
  <tr>
-    <td align=center >1.</td>
+    <td align=center >4.</td>
     <td>search-table-width-javascript</td>
     <td>https://emreeken183425.github.io/search-table-width-javascript/</td>
    
 </tr>  
   <tr>
-    <td align=center >1.</td>
+    <td align=center >5.</td>
     <td>chatBot-project</td>
     <td>https://emreeken183425.github.io/chatBot-project/</td> 
 </tr> 
   <tr>
-    <td align=center >1.</td>
+    <td align=center >6.</td>
     <td>clock-javascript</td>
     <td>https://emreeken183425.github.io/clock-javascript/</td> 
 </tr> 
     <tr>
-    <td align=center >1.</td>
+    <td align=center >7.</td>
     <td>javascript-guess-number-project</td>
     <td>https://emreeken183425.github.io/javascript-guess-number-project/</td> 
 </tr>
   <tr>
-    <td align=center >1.</td>
+    <td align=center >8.</td>
     <td>Password--nput-project</td>
     <td>https://emreeken183425.github.io/Password-input-project/
 
@@ -151,13 +151,13 @@ I prefer Javascript & React  for web front-end development.
        
 </tr>
      <tr>
-    <td align=center >1.</td>
+    <td align=center >2.</td>
     <td>bootstrap-project-2</td>
     <td>https://emreeken183425.github.io/bootstrap-website-2/</td>
        
 </tr>
      <tr>
-    <td align=center >1.</td>
+    <td align=center >3.</td>
     <td>bootstrap-project-1</td>
     <td>https://emreeken183425.github.io/bootstrap-project-1/</td>
        
@@ -180,7 +180,7 @@ I prefer Javascript & React  for web front-end development.
        
 </tr>
 <tr>
-    <td align=center >1.</td>
+    <td align=center >2.</td>
     <td>sass-scss-project-1</td>
     <td>https://emreeken183425.github.io/sass-scss-project-1/</td>
        
@@ -205,38 +205,38 @@ I prefer Javascript & React  for web front-end development.
        
 </tr>
   <tr>
-    <td align=center >1.</td>
+    <td align=center >2.</td>
     <td>project-neftlix</td>
     <td>https://emreeken183425.github.io/project-neftlix/</td>
        
 </tr>
      <tr>
-    <td align=center >1.</td>
+    <td align=center >3.</td>
     <td>first-website
 </td>
     <td>https://emreeken183425.github.io/first-website/</td>
        
 </tr>
      <tr>
-    <td align=center >1.</td>
+    <td align=center >4.</td>
     <td>project-mediaquery</td>
     <td>https://emreeken183425.github.io/project-mediaquery/</td>
        
 </tr>
      <tr>
-    <td align=center >1.</td>
+    <td align=center >5.</td>
     <td>project-voltaran-one</td>
     <tdhttps://emreeken183425.github.io/project-voltaran-one/</td>
        
 </tr>
 <tr>
-    <td align=center >1.</td>
+    <td align=center >6.</td>
     <td>Weather-Card-project</td>
     <td>https://emreeken183425.github.io/Weather-Card-project/</td>
        
 </tr>
      <tr>
-    <td align=center >1.</td>
+    <td align=center >7.</td>
     <td>k-s-sel-blog</td>
     <td>https://emreeken183425.github.io/k-s-sel-blog/</td>
        
