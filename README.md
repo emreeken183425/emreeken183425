@@ -101,68 +101,7 @@ I prefer React & React Native for web/mobile front-end development.
     
     
 </tr>
-<tr>
-    <td align=center >2.</td>
-    <td>Netflix Survey Form</td>
-    <td>https://brs14shn.github.io/HTML-CSS-02_Survey_Form/</td>
-   
-    
-</tr>
- <tr>
-    <td align=center >3.</td>
-    <td>Clarusway Survey Form</td>
-    <td>https://brs14shn.github.io/HTML-CSS-03_Clarusway_Survey_Form/</td>
-    
-    
-</tr>
-  <tr>
-    <td align=center >4.</td>
-    <td>Google Land Pages</td>
-    <td>https://brs14shn.github.io/HTML-CSS-04_GOOGLE_LAND_PAGES/</td>
-   
- </tr>
- <tr>
-    <td align=center >5.</td>
-    <td>QR_CODE</td>
-    <td>https://brs14shn.github.io/HTML-CSS-05_QR_CODE/</td>
-    
- </tr>
- <tr>
-    <td align=center >6.</td>
-    <td>Profil Card</td>
-    <td> https://brs14shn.github.io/HMTL_CSS_06_Profil_Card/</td>
-   
- </tr>
-  <tr>
-    <td align=center >7.</td>
-    <td>Shopping Basket</td>
-    <td> https://brs14shn.github.io/HC-07_Shopping_Basket/</td>
-   
- </tr>
- <tr>
-    <td align=center >8.</td>
-    <td>Google Landing Pages</td>
-    <td>https://brs14shn.github.io/HC-08_Google_Pages_Dark_Mode/ </td>
-   
- </tr>
- <tr>
-    <td align=center >9.</td>
-    <td>Parallax WebSite</td>
-    <td>https://brs14shn.github.io/HC-09_Parallax_Responsive_Website/ </td>
-   
- </tr>
-      <tr>
-    <td align=center >10.</td>
-    <td>Media Query</td>
-    <td>https://brs14shn.github.io/HC-11_Media_Query/ </td>
-   
- </tr>
-      <tr>
-    <td align=center >11.</td>
-    <td>Github_Login_Pages</td>
-    <td>https://brs14shn.github.io/HC_Github_Login_Pages/ </td>
-   
- </tr>
+
  
 </table>
 
