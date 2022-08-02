@@ -67,11 +67,16 @@ I prefer Javascript & React  for web front-end development.
     <th align="left" width="30%">Project Link</th>
   
 </tr>
-<tr>
+ <tr>
     <td align=center >1.</td>
     <td>CONTACT APP</td>
     <td>https://contact-app-amber.vercel.app/</td>
-    </tr>
+  </tr>
+     <tr>
+    <td align=center >1.</td>
+    <td>task-tracker-project</td>
+    <td>https://task-tracker-project-zeta.vercel.app/</td>
+  </tr>
   </table>
  <p align="left"> <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
