@@ -186,12 +186,25 @@ I prefer Javascript & React  for web front-end development.
     <th align="left" width="30%">Project Link</th>
   
 </tr>
+ <tr>
+    <td align=center >1.</td>
+    <td>GOOGLE-PAGE-PROJECT</td>
+    <td> https://emreeken183425.github.io/GOOGLE-PAGE-PROJECT/</td>
+       
+</tr>
 <tr>
     <td align=center >1.</td>
     <td>Weather-Card-project</td>
     <td>https://emreeken183425.github.io/Weather-Card-project/</td>
        
 </tr>
+     <tr>
+    <td align=center >1.</td>
+    <td>k-s-sel-blog</td>
+    <td>https://emreeken183425.github.io/k-s-sel-blog/</td>
+       
+</tr>
+
 </table>
 
  
