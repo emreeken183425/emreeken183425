@@ -148,8 +148,8 @@ I prefer React & React Native for web/mobile front-end development.
 </tr>
 <tr>
     <td align=center >1.</td>
-    <td>Voltran</td>
-    <td>https://brs14shn.github.io/Voltran/</td>
+    <td>Weather-Card-project</td>
+    <td>https://emreeken183425.github.io/Weather-Card-project/</td>
        
 </tr>
 </table>
