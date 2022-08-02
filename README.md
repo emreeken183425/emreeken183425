@@ -161,10 +161,16 @@ I prefer Javascript & React  for web front-end development.
     <th align="left" width="30%">Project Link</th>
   
 </tr>
+     <tr>
+    <td align=center >1.</td>
+    <td>sass-scss-project-2</td>
+    <td>https://emreeken183425.github.io/sass-scss-project-2/</td>
+       
+</tr>
 <tr>
     <td align=center >1.</td>
-    <td>Voltran</td>
-    <td>https://brs14shn.github.io/Voltran/</td>
+    <td>sass-scss-project-1</td>
+    <td>https://emreeken183425.github.io/sass-scss-project-1/</td>
        
 </tr>
 </table>
