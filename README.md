@@ -87,6 +87,11 @@ I prefer React & React Native for web/mobile front-end development.
 </tr>
  <tr>
     <td align=center >1.</td>
+    <td>Kredi Hesaplama Aracı</td>
+    <td>https://emreeken183425.github.io/javascript-kredi-hesaplama/</td> 
+</tr> 
+ <tr>
+    <td align=center >1.</td>
     <td>search-table-width-javascript</td>
     <td>https://emreeken183425.github.io/search-table-width-javascript/</td>
    
@@ -96,6 +101,19 @@ I prefer React & React Native for web/mobile front-end development.
     <td>chatBot-project</td>
     <td>https://emreeken183425.github.io/chatBot-project/</td> 
 </tr> 
+  <tr>
+    <td align=center >1.</td>
+    <td>clock-javascript</td>
+    <td>https://emreeken183425.github.io/clock-javascript/</td> 
+</tr> 
+  <tr>
+    <td align=center >1.</td>
+    <td>Password--nput-project</td>
+    <td>https://emreeken183425.github.io/Password-input-project/
+
+</td> 
+</tr> 
+  
   <tr>
     <td align=center >1.</td>
     <td>clock-javascript</td>
