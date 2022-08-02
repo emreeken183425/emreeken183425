@@ -12,7 +12,7 @@
 I prefer React & React Native for web/mobile front-end development.
 <br/>
 
-- Python, HTML5, CSS3, Git, GitHub, Linux
+-  HTML5, CSS3,BOOTSTRAP,SCSS-SASS,JAVASCRİPT,REACT,REDUX,FİREBASE,PYTHON,GİT, GİTHUB, LİNUX,AGİLE,JİRA,SQL
 
 - 💬 Ask  me about anything that you want to learn
 
