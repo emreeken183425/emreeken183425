@@ -82,10 +82,9 @@ I prefer React & React Native for web/mobile front-end development.
     <td align=center >1.</td>
     <td>CONTACT APP</td>
     <td>https://contact-app-amber.vercel.app/</td>
-    
-    
-     </tr>
-    </table>
+    </tr>
+  </table>
+ 
  <table>
 <tr >
     <caption>HMTL-CSS PROJECTS<caption>
@@ -98,11 +97,8 @@ I prefer React & React Native for web/mobile front-end development.
     <td align=center >1.</td>
     <td>Voltran</td>
     <td>https://brs14shn.github.io/Voltran/</td>
-    
-    
+       
 </tr>
-
- 
 </table>
 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
