@@ -83,6 +83,24 @@ I prefer React & React Native for web/mobile front-end development.
     <td>https://contact-app-amber.vercel.app/</td>
     </tr>
   </table>
+ <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
+ <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="45"/> </a>
+ <table>
+<tr>
+    <caption>HMTL-CSS-JS<caption>
+    <th width="5%">S.Nu</td>
+    <th align="left" width="20%">Project Name</th>
+    <th align="left" width="30%">Project Link</th>
+   
+</tr>
+ <tr>
+    <td align=center >1.</td>
+    <td>Google-Dark-Mode</td>
+    <td>https://brs14shn.github.io/HC-08_Google_Pages_Dark_Mode/</td>
+   
+</tr>  
+  <table>
   <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
  <table>
@@ -101,121 +119,5 @@ I prefer React & React Native for web/mobile front-end development.
 </tr>
 </table>
 
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="45"/> </a>
- <table>
-<tr>
-    <caption>HMTL-CSS-JS<caption>
-    <th width="5%">S.Nu</td>
-    <th align="left" width="20%">Project Name</th>
-    <th align="left" width="30%">Project Link</th>
-   
-</tr>
- <tr>
-    <td align=center >1.</td>
-    <td>Google-Dark-Mode</td>
-    <td>https://brs14shn.github.io/HC-08_Google_Pages_Dark_Mode/</td>
-   
-</tr>
- <tr>
-    <td align=center >2.</td>
-    <td>Leap Year</td>
-    <td>https://brs14shn.github.io/HCJ_02_Leap_Year/</td>
-    
-</tr>
- <tr>
-    <td align=center >3.</td>
-    <td>Word Counter</td>
-    <td>https://brs14shn.github.io/HCJ_03_Word_Counter/</td>
-   
-</tr>
- <tr>
-    <td align=center >4.</td>
-    <td>Dropdown-Menu</td>
-    <td> https://brs14shn.github.io/HCJ-04_Dropdown-Menu/</td>
-   
-</tr>
-  <tr>
-    <td align=center >5.</td>
-    <td>Credit_Calculation</td>
-    <td> https://brs14shn.github.io/HCJ-05-Credit_Calculation/</td>
-    
-</tr>
- <tr>
-    <td align=center >6.</td>
-    <td>DomAppend-Child</td>
-    <td> https://brs14shn.github.io/HCJ-06-Dom_Append_Child/</td>
-  
-</tr>
-  <tr>
-    <td align=center >7.</td>
-    <td>Checkout-Form</td>
-    <td>  https://brs14shn.github.io/HCJ_07_Checkout_Form_Js/</td>
-   
-</tr>
-   <tr>
-    <td align=center >8.</td>
-    <td>E-mail-Validation</td>
-    <td>  https://brs14shn.github.io/HCJ-08_E-mail-_Validation/</td>
-  
-</tr>
-   <tr>
-    <td align=center >9.</td>
-    <td>Capturing With Checkout-Page</td>
-    <td>  https://brs14shn.github.io/HCJ-08_E-mail-_Validation/</td>
-  
-</tr>
-  <tr>
-    <td align=center >10.</td>
-    <td>Guess Number</td>
-   <td>https://brs14shn.github.io/HCJ_10_Guess_Number/  </td>
-</tr>
-   <tr>
-    <td align=center >11.</td>
-    <td>Bootstrap Responsive Project</td>
-   <td>https://brs14shn-bootstrap-responsive-project.netlify.app/ </td>
-</tr>
-   <tr>
-    <td align=center >12.</td>
-    <td>Middle Level Calculator</td>
-   <td>https://github.com/brs14shn/Middle_Level_Calculator </td>
-</tr>
-   <tr>
-    <td align=center >13.</td>
-    <td>Todo List</td>
-   <td>https://brs14shn.github.io/HCJ-11_Todo_List/ </td>
-</tr>
-   <tr>
-    <td align=center >14.</td>
-    <td>Weather App</td>
-   <td>https://brs14shn.github.io/api-wheater-condition-app/ </td>
-</tr>
-   <tr>
-    <td align=center >15.</td>
-    <td>Digital Clock</td>
-   <td>https://brs14shn.github.io/Digital-Clock/</td>
-</tr>
-   <tr>
-    <td align=center >16.</td>
-    <td>Count Timer</td>
-   <td>https://brs14shn.github.io/Count-Timer/</td>
-</tr>
-   <tr>
-    <td align=center >17.</td>
-    <td>Roman Numerals Conventer</td>
-   <td>https://brs14shn.github.io/Roman-Numerals-Conventer/</td>
-</tr>
-   <tr>
-    <td align=center >18.</td>
-    <td>Random User Generator-Async-Await</td>
-   <td>https://brs14shn.github.io/random_user_generator-async/</td>
-</tr>
-   <tr>
-    <td align=center >19.</td>
-    <td>Stop Watch</td>
-   <td>https://brs14shn.github.io/HCJ-STOP-WATCH/</td>
-</tr>
-  
-  <table>
+ 
   
