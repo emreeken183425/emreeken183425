@@ -79,7 +79,7 @@ I prefer React & React Native for web/mobile front-end development.
  
  <table>
 <tr>
-    <caption>HMTL-CSS-JS<caption>
+    <caption>HMTL-CSS-JS PROJECTS<caption>
     <th width="5%">S.Nu</td>
     <th align="left" width="20%">Project Name</th>
     <th align="left" width="30%">Project Link</th>
