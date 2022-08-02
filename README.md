@@ -9,7 +9,7 @@
 
 <p><img align="right" src="https://github.com/akib001/akib001/blob/1404919818557ed5858331642b63d01e2485a97a/animation_500_kxa883sd.gif" alt="akib001" width="30%" height="" /></p>
 
-I prefer React & React Native for web/mobile front-end development.
+I prefer Javascript & React  for web front-end development.
 <br/>
 
 -  HTML5, CSS3,BOOTSTRAP,SCSS-SASS,JAVASCRİPT,REACT,REDUX,FİREBASE,PYTHON,GİT, GİTHUB, LİNUX,AGİLE,JİRA,SQL
