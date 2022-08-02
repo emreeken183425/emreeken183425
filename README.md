@@ -73,7 +73,7 @@ I prefer Javascript & React  for web front-end development.
     <td>https://contact-app-amber.vercel.app/</td>
   </tr>
      <tr>
-    <td align=center >1.</td>
+    <td align=center >2.</td>
     <td>task-tracker-project</td>
     <td>https://task-tracker-project-zeta.vercel.app/</td>
   </tr>
