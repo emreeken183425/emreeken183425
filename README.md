@@ -106,6 +106,11 @@ I prefer React & React Native for web/mobile front-end development.
     <td>clock-javascript</td>
     <td>https://emreeken183425.github.io/clock-javascript/</td> 
 </tr> 
+    <tr>
+    <td align=center >1.</td>
+    <td>javascript-guess-number-project</td>
+    <td>https://emreeken183425.github.io/javascript-guess-number-project/</td> 
+</tr>
   <tr>
     <td align=center >1.</td>
     <td>Password--nput-project</td>
@@ -114,11 +119,7 @@ I prefer React & React Native for web/mobile front-end development.
 </td> 
 </tr> 
   
-  <tr>
-    <td align=center >1.</td>
-    <td>clock-javascript</td>
-    <td>https://emreeken183425.github.io/clock-javascript/</td> 
-</tr> 
+ 
   <table>
    
    
