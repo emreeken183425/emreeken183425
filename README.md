@@ -54,18 +54,8 @@ I prefer React & React Native for web/mobile front-end development.
 </p>
 
 
-## 📈 Statistics
-<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brs14shn&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> 
-<img src="https://github-readme-stats.vercel.app/api?username=brs14shn&show_icons=true&theme=radical" alt="Statistics" width="50%">
-</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brs14shn&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p><br>
-
-### Support Me
-<p align="right"> Visitor Counter 🕵🏼</p>
-<p align="right"><img  width="150px" src="https://profile-counter.glitch.me/{brs14shn}/count.svg" alt="Visitor's Count" /></p>
 
 ### <h2 align="center">&#127894; My Projects</h2>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
