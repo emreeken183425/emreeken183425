@@ -94,10 +94,12 @@ I prefer React & React Native for web/mobile front-end development.
   <tr>
     <td align=center >1.</td>
     <td>chatBot-project</td>
-    <td>https://emreeken183425.github.io/chatBot-project/
-
-</td>
-   
+    <td>https://emreeken183425.github.io/chatBot-project/</td> 
+</tr> 
+  <tr>
+    <td align=center >1.</td>
+    <td>clock-javascript</td>
+    <td>https://emreeken183425.github.io/clock-javascript/</td> 
 </tr> 
   <table>
    
