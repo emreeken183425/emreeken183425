@@ -86,8 +86,8 @@ I prefer React & React Native for web/mobile front-end development.
 </tr>
  <tr>
     <td align=center >1.</td>
-    <td>Google-Dark-Mode</td>
-    <td>https://brs14shn.github.io/HC-08_Google_Pages_Dark_Mode/</td>
+    <td>search-table-width-javascript</td>
+    <td>https://emreeken183425.github.io/search-table-width-javascript/</td>
    
 </tr>  
   <table>
