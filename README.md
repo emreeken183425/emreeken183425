@@ -133,12 +133,15 @@ I prefer Javascript & React  for web front-end development.
     <td>javascript-guess-number-project</td>
     <td>https://emreeken183425.github.io/javascript-guess-number-project/</td> 
 </tr>
-  <tr>
+<tr>
     <td align=center >8.</td>
+    <td>chacekout-page</td>
+    <td>https://emreeken183425.github.io/chacekout-page/</td> 
+</tr> 
+  <tr>
+    <td align=center >9.</td>
     <td>Password--nput-project</td>
-    <td>https://emreeken183425.github.io/Password-input-project/
-
-</td> 
+    <td>https://emreeken183425.github.io/Password-input-project/</td> 
 </tr> 
   
  
