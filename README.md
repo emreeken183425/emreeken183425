@@ -97,7 +97,7 @@ I prefer Javascript & React  for web front-end development.
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="45"/> </a></p> 
  
- <table>
+ <table width=100% >
 <tr>
     <caption>HMTL-CSS-JS PROJECTS<caption>
     <th width="5%">S.Nu</td>
@@ -159,7 +159,7 @@ I prefer Javascript & React  for web front-end development.
    
    
    <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-    <table>
+    <table width=100% >
 <tr >
     <caption>HMTL-CSS BOOTSTRAP PROJECTS<caption>
     <th width="5%">S.Nu </th>
@@ -189,7 +189,7 @@ I prefer Javascript & React  for web front-end development.
 
 </table>
  <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
- <table>
+ <table width=100% >
 <tr >
     <caption>HMTL-CSS SASS-SCSS PROJECTS<caption>
     <th width="5%">S.Nu </th>
@@ -214,7 +214,7 @@ I prefer Javascript & React  for web front-end development.
   <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258671-03184473-a73b-4c7a-865c-4bc4a3864fcc.png" alt="css" height="50"/> </a> 
    
- <table>
+ <table width=100% >
 <tr >
     <caption>HMTL-CSS PROJECTS<caption>
     <th width="5%">S.Nu </th>
