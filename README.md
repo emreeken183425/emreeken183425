@@ -12,7 +12,7 @@
 I prefer Javascript & React  for web front-end development.
 <br/>
 
--  HTML5, CSS3,BOOTSTRAP,SCSS-SASS,JAVASCRİPT,REACT,REDUX,FİREBASE,PYTHON,GİT, GİTHUB, LİNUX,AGİLE,JİRA,SQL
+-  JAVASCRİPT,REACT,REDUX,FİREBASE,PYTHON,HTML5, CSS3,BOOTSTRAP,SCSS-SASS,GİT, GİTHUB, LİNUX,AGİLE,JİRA,SQL
 
 - 💬 Ask  me about anything that you want to learn
 
