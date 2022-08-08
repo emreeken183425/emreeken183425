@@ -72,28 +72,33 @@ I prefer Javascript & React  for web front-end development.
     <td>CONTACT APP</td>
     <td>https://contact-app-amber.vercel.app/</td>
   </tr>
-     <tr>
+  <tr>
     <td align=center >2.</td>
+    <td>fire-blog-app</td>
+    <td>https://fire-blog-app-ten.vercel.app/</td>
+  </tr>
+     <tr>
+    <td align=center >3.</td>
     <td>task-tracker-project</td>
     <td>https://task-tracker-project-zeta.vercel.app/</td>
   </tr>
     <tr>
-    <td align=center >3.</td>
+    <td align=center >4.</td>
     <td>mytour-places</td>
     <td>https://mytour-places.vercel.app/</td>
   </tr>
        <tr>
-    <td align=center >4.</td>
+    <td align=center >5.</td>
     <td>formik-yup</td>
     <td>https://formik-yup-rouge.vercel.app/</td>
   </tr>
      <tr>
-    <td align=center >5.</td>
+    <td align=center >6.</td>
     <td>card-project</td>
     <td>https://card-project-five.vercel.app/</td>
   </tr>
      <tr>
-    <td align=center >6.</td>
+    <td align=center >7.</td>
     <td>Recip-app</td>
     <td>https://recip-app.vercel.app/</td>
   </tr>
