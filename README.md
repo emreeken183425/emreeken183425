@@ -81,7 +81,7 @@ I prefer Javascript & React  for web front-end development.
   <tr>
     <td align=center >2.</td>
     <td>firebase-movie-app</td>
-    <td>https://firebase-movie-app-cyan.vercel.app/</td>
+    <td> https://emreeken183425.github.io/Firebase-Movie-App/</td>
   </tr>
      <tr>
     <td align=center >3.</td>
