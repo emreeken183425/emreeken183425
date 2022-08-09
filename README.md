@@ -72,10 +72,16 @@ I prefer Javascript & React  for web front-end development.
     <td>CONTACT APP</td>
     <td>https://contact-app-amber.vercel.app/</td>
   </tr>
+  
   <tr>
     <td align=center >2.</td>
     <td>fire-blog-app</td>
     <td>https://fire-blog-app-ten.vercel.app/</td>
+  </tr>
+  <tr>
+    <td align=center >2.</td>
+    <td>firebase-movie-app</td>
+    <td>https://firebase-movie-app-cyan.vercel.app/</td>
   </tr>
      <tr>
     <td align=center >3.</td>
