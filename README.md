@@ -169,10 +169,15 @@ I prefer Javascript & React  for web front-end development.
     <td>chacekout-page</td>
     <td>https://emreeken183425.github.io/chacekout-page/</td> 
 </tr> 
-  <tr>
+ <tr>
     <td align=center >9.</td>
     <td>Password--nput-project</td>
     <td>https://emreeken183425.github.io/Password-input-project/</td> 
+</tr> 
+  <tr>
+    <td align=center >10.</td>
+    <td>statistics-project</td>
+    <td>https://emreeken183425.github.io/statistics-project/</td> 
 </tr> 
   
  
