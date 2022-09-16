@@ -60,6 +60,7 @@ I prefer Javascript & React  for web front-end development.
 
 
 ### <h2 align="center"  >&#127894; My Projects</h2>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
  <table width="1000px" >
 <tr >
     <caption>DJANGO PROJECTS<caption>
