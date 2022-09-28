@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Emre EKEN</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm  a Fullstack Developer!;I used it in my projects ;React | Redux ;HTML|CSS|JS|Responsive Design!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-eken-48a67021a/) 
 <a href="https://github.com/emreeken183425" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=GİTHUB KULLANICI ADI" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
 ### What I'm using ? 
-
+I prefer React & Django for web/mobile Fullstack development.
 <p><img align="right" src="https://github.com/akib001/akib001/blob/1404919818557ed5858331642b63d01e2485a97a/animation_500_kxa883sd.gif" alt="akib001" width="30%" height="" /></p>
 
 I prefer Javascript & React  for web front-end development.
