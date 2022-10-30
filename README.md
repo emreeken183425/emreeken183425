@@ -163,6 +163,11 @@ I prefer Javascript & React  for web front-end development.
     <td>react-newsapp-project</td>
     <td>https://react-newsapp-project.vercel.app/</td>
   </tr>
+       <tr>
+    <td align=center >11.</td>
+    <td>news</td>
+    <td>https://news-nnvrx0g88-emreeken183425.vercel.app/</td>
+  </tr>
       
 
   </table>
