@@ -9,7 +9,7 @@
 <!-- <p align="left">  </p> -->
 
 ### What I'm using ? 
-I prefer React & Django for web/mobile Fullstack development.
+I prefer React & Node JS for web/mobile Fullstack development.
 <p><img align="right" src="https://github.com/akib001/akib001/blob/1404919818557ed5858331642b63d01e2485a97a/animation_500_kxa883sd.gif" alt="akib001" width="30%" height="" /></p>
 
 I prefer Javascript & React  for web front-end development.
@@ -17,7 +17,7 @@ I prefer Javascript & React  for web front-end development.
 
 -  JAVASCRİPT,REACT,REDUX,FİREBASE,FORMİK-YUP,MATERİAL UI,PYTHON,HTML5, CSS3,BOOTSTRAP,SCSS-SASS,GİT, GİTHUB, LİNUX,AGİLE,JİRA,SQL
 
--I am learning Django now
+-I am learning Node JS now
 
 - 💬 Ask  me about anything that you want to learn
 
@@ -70,6 +70,11 @@ I prefer Javascript & React  for web front-end development.
     <td align=center >1.</td>
     <td>WEATHER APP</td>
     <td>https://emre-weatherapp.herokuapp.com/</td>
+  </tr>
+      <tr>
+    <td align=center >1.</td>
+    <td>TASK-MANAGER-WITH-DJANGO-REACT-JS</td>
+    <td>[https://emre-weatherapp.herokuapp.com/](https://github.com/emreeken183425/TASK-MANAGER-WITH-DJANGO-REACT-JS)</td>
   </tr>
 </table>
  <h1>FRONTEND PROJECTS </h1>
