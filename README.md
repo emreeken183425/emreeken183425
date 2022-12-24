@@ -72,9 +72,34 @@ I prefer Javascript & React  for web front-end development.
     <td>https://emre-weatherapp.herokuapp.com/</td>
   </tr>
       <tr>
-    <td align=center >1.</td>
+    <td align=center >2.</td>
     <td>TASK-MANAGER-WITH-DJANGO-REACT-JS</td>
-    <td>[https://emre-weatherapp.herokuapp.com/](https://github.com/emreeken183425/TASK-MANAGER-WITH-DJANGO-REACT-JS)</td>
+    <td>(https://github.com/emreeken183425/TASK-MANAGER-WITH-DJANGO-REACT-JS)</td>
+  </tr>
+    <tr>
+    <td align=center >3.</td>
+    <td>Personal-List-App</td>
+    <td>(https://github.com/emreeken183425/Personal-List-App)</td>
+  </tr>
+     <tr>
+    <td align=center >4.</td>
+    <td>django-flight-app</td>
+    <td>(https://github.com/emreeken183425/django-flight-app)</td>
+  </tr>
+      <tr>
+    <td align=center >5.</td>
+    <td>Quiz-App</td>
+    <td>(https://github.com/emreeken183425/Quiz-App)</td>
+  </tr>
+     <tr>
+    <td align=center >6.</td>
+    <td>Cripto_app</td>
+    <td>https://github.com/emreeken183425/Cripto_app</td>
+  </tr>
+     <tr>
+    <td align=center >7.</td>
+    <td>Todo-APP-django</td>
+    <td>https://github.com/emreeken183425/Todo-APP-django</td>
   </tr>
 </table>
  <h1>FRONTEND PROJECTS </h1>
