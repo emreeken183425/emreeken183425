@@ -40,7 +40,7 @@ I prefer Javascript & React  for web front-end development.
 
 ### <h2 align="center"  >&#127894; My Projects</h2>
  <h1>FULLSTACK PROJECTS </h1>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <br>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  <br>
  <table width="1000px" >
 <tr >
     <caption>REACT & DJANGO PROJECTS<caption>
@@ -54,6 +54,22 @@ I prefer Javascript & React  for web front-end development.
     <td>TASK MANAGER</td>
     <td>https://taskmanager-delta.vercel.app/</td>
   </tr>
+     <tr>
+    <td align=center >2.</td>
+    <td>Blog_App_Capstone_FullStack</td>
+    <td>https://github.com/emreeken183425/Blog_App_Capstone_FullStack</td>
+  </tr>
+      <tr>
+    <td align=center >3.</td>
+    <td>CASE-STUDY</td>
+    <td>https://github.com/emreeken183425/CASE-STUDY</td>
+  </tr>
+      <tr>
+    <td align=center >4.</td>
+    <td>library-registration-program</td>
+    <td>https://github.com/emreeken183425/library-registration-program</td>
+  </tr>
+      
 </table>
   
  <h1>BACKEND PROJECTS </h1>
