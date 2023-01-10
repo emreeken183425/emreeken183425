@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre EKEN</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm  a Fullstack Developer!;I used it in my projects ;React | Redux ;HTML|CSS|JS|Responsive Design!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm  a Fullstack Developer!;I used it in my projects ;JavaScript|React |Node JS|Django|Redux| ;HTML|CSS|Bootstrap|Responsive Design!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-eken-48a67021a/) 
