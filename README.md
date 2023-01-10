@@ -15,7 +15,7 @@ I prefer React & Node JS for web/mobile Fullstack development.
 I prefer Javascript & React  for web front-end development.
 <br/>
 
--  JAVASCRİPT,REACT,REDUX,FİREBASE,FORMİK-YUP,MATERİAL UI,PYTHON,HTML5, CSS3,BOOTSTRAP,SCSS-SASS,GİT, GİTHUB, LİNUX,AGİLE,JİRA,SQL
+-  JAVASCRİPT,REACT,REDUX,FİREBASE,FORMİK-YUP,MATERİAL UI,PYTHON,DJANGO,HTML5, CSS3,BOOTSTRAP,CoreUI,SCSS-SASS,GİT, GİTHUB, LİNUX,AGİLE,JİRA,SQL
 
 -I am learning Node JS now
 
